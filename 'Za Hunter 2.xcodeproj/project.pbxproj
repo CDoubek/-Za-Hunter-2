@@ -13,6 +13,7 @@
 		3F7BC5A52641A168007A35E8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F7BC5A42641A168007A35E8 /* Preview Assets.xcassets */; };
 		3F7BC5B02641A168007A35E8 /* _Za_Hunter_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7BC5AF2641A168007A35E8 /* _Za_Hunter_2Tests.swift */; };
 		3F7BC5BB2641A168007A35E8 /* _Za_Hunter_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7BC5BA2641A168007A35E8 /* _Za_Hunter_2UITests.swift */; };
+		3F7BC5CC2641A37B007A35E8 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7BC5CB2641A37A007A35E8 /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		3F7BC5B62641A168007A35E8 /* 'Za Hunter 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "'Za Hunter 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F7BC5BA2641A168007A35E8 /* _Za_Hunter_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _Za_Hunter_2UITests.swift; sourceTree = "<group>"; };
 		3F7BC5BC2641A168007A35E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F7BC5CB2641A37A007A35E8 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				3F7BC59D2641A165007A35E8 /* _Za_Hunter_2App.swift */,
 				3F7BC59F2641A165007A35E8 /* ContentView.swift */,
+				3F7BC5CB2641A37A007A35E8 /* LocationManager.swift */,
 				3F7BC5A12641A168007A35E8 /* Assets.xcassets */,
 				3F7BC5A62641A168007A35E8 /* Info.plist */,
 				3F7BC5A32641A168007A35E8 /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				3F7BC5A02641A165007A35E8 /* ContentView.swift in Sources */,
 				3F7BC59E2641A165007A35E8 /* _Za_Hunter_2App.swift in Sources */,
+				3F7BC5CC2641A37B007A35E8 /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
